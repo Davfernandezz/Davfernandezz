@@ -2,10 +2,9 @@
 I am a Full Stack developer based in Valencia, and I am currently acquiring all the knowledge I can at GeeksHubs Academy. Feel free to contact me and review my projects. Let me know if you are interested in working together or if you have any questions!
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
-<br><br>
 
 ## About me✏️
-I am a Full Stack developer with a strong interest in creating web applications and all kinds of technologies. Currently, I am expanding my skills and knowledge at GeeksHubs Academy, where I am learning the latest technologies and best practices in software development.
+I consider myself a forward thinking person with a strong interest in creating web applications and all kinds of technologies. Currently, I am expanding my skills and knowledge at GeeksHubs Academy, where I am learning the latest technologies and best practices in software development.
 
 ## My current skills  include📒
 
