@@ -8,12 +8,12 @@ I consider myself a forward thinking person with a strong interest in creating w
 
 ## My current skills  include📒
 
-**Frontend Development:** `CSS` `Bootstrap` `JavaScript` `TypeScript` `React`  `Next.js`
+**Frontend Development:** `CSS`  `HTML` `Bootstrap` `JavaScript` `TypeScript` `React`
  
 
-**Backend Development:** `Node.js` `Java` `#C` 
+**Backend Development:** `Node.js` `Java` `PHP` 
 
-**Testing:** `Cypress` `Playwright` `Jest` `Selenium`
+**Testing:** `Cypress` `Jest` `Selenium`
 
 **Databases:** `SQL` `MongoDB` `Express` `Access` `Zeabur` `Postman`
 
